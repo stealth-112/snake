@@ -1,5 +1,4 @@
 # ok
-# okk
 import pygame
 import random
 
